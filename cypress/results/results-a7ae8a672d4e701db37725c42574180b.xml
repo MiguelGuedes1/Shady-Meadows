@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.285" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-21T22:53:27" tests="0" file="cypress\e2e\fluxo_reserva.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Reserva de Quarto - Fluxo Completo" timestamp="2026-04-21T22:53:27" tests="1" time="5.282" failures="0">
+    <testcase name="Reserva de Quarto - Fluxo Completo Deve completar uma reserva com sucesso" time="3.961" classname="Deve completar uma reserva com sucesso">
+    </testcase>
+  </testsuite>
+</testsuites>
+
+
